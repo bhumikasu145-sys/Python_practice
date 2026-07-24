@@ -1,0 +1,17 @@
+#input output programs
+1.
+name = input("enter your name: ")
+age = int(input("enter your age: ")
+
+print(Hello! "name")
+print("i ,am + age + years old")
+
+
+2.
+a = int(input("Enter first number: "))
+b = int(input("Enter second number: "))
+
+print("Addition:", a + b)
+print("Subtraction:", a - b)
+print("Multiplication:", a * b)
+print("Division:", a / b)
