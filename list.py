@@ -24,7 +24,7 @@
 
 📌 What is a List?
 
-A list is a collection of items stored in a single variable.
+A list is a collection of items stored in a single variable
 
 ✨ Features:
 ✔ Ordered
