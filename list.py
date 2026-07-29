@@ -198,7 +198,7 @@ After Lists, learn:
 🙋‍♀️ Author
 
 ✨ Bhoomika
-📌 Python Learner | Future Developer 💻
+📌 Python Learner | Future Developer 
 
 ---
 
