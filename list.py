@@ -1,6 +1,6 @@
-🐍 Python Lists – Complete Guide 🚀
+🐍 Python Lists 
 
-✨ Beginner to Advanced Concepts with Examples
+✨ Beginner to Advanced
 
 ---
 
@@ -183,17 +183,7 @@ print(tasks)
 
 ❌ Uses more memory
 ❌ Slower for very large data
-
----
-
-🚀 Next Steps
-
-After Lists, learn:
-👉 Tuples
-👉 Sets
-👉 Dictionaries
-
----
+___
 
 🙋‍♀️ Author
 
