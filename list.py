@@ -7,7 +7,7 @@
 📚 Table of Contents
 
 - 📌 What is a List?
-- 🛠️ Creating Lists
+- 🛠️ Creating lists
 - 🔍 Accessing Elements
 - ✂️ Slicing
 - ✏️ Updating List
