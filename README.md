@@ -115,4 +115,8 @@ Practice Problems          🔄
 Python Projects            🔄
 DSA                        🔜
 Advanced Python            🔜
-
+---
+Goal
+To became a software developer 
+---
+connect with me : github.com/bhumikasu145.sys
