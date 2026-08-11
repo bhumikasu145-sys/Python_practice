@@ -103,3 +103,16 @@ Python-Learning/
 │
 └── README.md
 
+---
+
+Python Basics             ✅
+Data Structures            ✅
+Conditional Statements     ✅
+Loops                      ✅
+Functions                  🔄
+String Operations          🔄
+Practice Problems          🔄
+Python Projects            🔄
+DSA                        🔜
+Advanced Python            🔜
+
