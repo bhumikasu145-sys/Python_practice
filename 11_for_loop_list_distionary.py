@@ -299,28 +299,7 @@ print(languages)
 
 Output:
 
-['Python', 'Java', 'C++,JavaScript']
-
----
-
-📌 Quick Summary
-
-Topic| Method / Concept
-Loop through List| "for item in list"
-Double List Values| "number * 2"
-Loop Dictionary| "for key in dict"
-Dictionary Values| "dict.values()"
-Key + Value| "dict.items()"
-Range Loop| "range()"
-Square Numbers| "number ** 2"
-Filter Even Numbers| "number % 2 == 0"
-Uppercase| ".upper()"
-Dictionary Comparison| "dict1 == dict2"
-Dictionary of Squares| "number ** 2"
-Name Length| "len(name)"
-String Splitting| ".split()"
-Separator| ".split(",")"
-Limit Splits| ".split(",", maxsplit)"
+['Python', 'Java', 'C++', 'JavaScript']
 
 ---
 
