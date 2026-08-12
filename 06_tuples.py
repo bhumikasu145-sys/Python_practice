@@ -165,16 +165,6 @@ print("Course:", course)
 
 ---
 
-🎯 Practice Questions
-
-1. Create a tuple and print all elements
-2. Find the length of a tuple
-3. Access first and last element
-4. Count how many times 5 appears
-5. Convert tuple to list
-
----
-
 🚀 Conclusion
 
 Tuples are a powerful and efficient data structure in Python.
